@@ -14,6 +14,8 @@
 
 </div>
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Preview-16a34a?style=for-the-badge&logo=githubpages&logoColor=white)](https://laiba-shehbaz.github.io/laiba-shehbaz/preview.html)
+
 <img src="assets/divider.svg" alt="" width="100%">
 
 <img src="assets/section-about.svg" alt="About Me" width="100%">
