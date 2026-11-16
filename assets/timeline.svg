@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="344" viewBox="0 0 900 344" role="img" aria-label="Career timeline from 2020 to present with six roles" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<title>Career timeline from 2020 to present with six roles</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#131a33"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect width="900" height="344" rx="18" fill="url(#bg)"/>
+<rect x="0.6" y="0.6" width="898.8" height="342.8" rx="17.4" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+<line x1="330" y1="42" x2="330" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="369.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2020</text>
+<line x1="408" y1="42" x2="408" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="447.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2021</text>
+<line x1="486" y1="42" x2="486" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="525.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2022</text>
+<line x1="564" y1="42" x2="564" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="603.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2023</text>
+<line x1="642" y1="42" x2="642" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="681.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2024</text>
+<line x1="720" y1="42" x2="720" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="759.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2025</text>
+<line x1="798" y1="42" x2="798" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="837.0" y="32" text-anchor="middle" font-size="12" font-weight="700" fill="#94a3b8">2026</text>
+<line x1="876" y1="42" x2="876" y2="320" stroke="#ffffff" stroke-opacity="0.08"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0300;0.0700;0.93;1" dur="10.0s" repeatCount="indefinite"/><text x="28" y="75" font-size="14" font-weight="700" fill="#f1f5f9">Freelance Writer</text><text x="28" y="92" font-size="11.5" fill="#94a3b8">Content &amp; script writing · 2020 – Present</text></g>
+<rect x="330.0" y="69" width="0" height="18" rx="9" fill="url(#g)"><animate attributeName="width" values="0;0;538.2;538.2;0" keyTimes="0;0.0300;0.1300;0.93;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1300;0.1600;0.93;1" dur="10.0s" repeatCount="indefinite"/><circle cx="868.2" cy="78" r="5" fill="#34d399"/><circle cx="868.2" cy="78" r="5" fill="none" stroke="#34d399" stroke-width="2"><animate attributeName="r" values="5;13;5" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0.9" dur="2.4s" repeatCount="indefinite"/></circle></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0600;0.1000;0.93;1" dur="10.0s" repeatCount="indefinite"/><text x="28" y="119" font-size="14" font-weight="700" fill="#f1f5f9">Ghazwa Collection</text><text x="28" y="136" font-size="11.5" fill="#94a3b8">SEO &amp; Marketing Assistant · 2021 – 2022</text></g>
+<rect x="408.0" y="113" width="0" height="18" rx="9" fill="url(#g)"><animate attributeName="width" values="0;0;156.0;156.0;0" keyTimes="0;0.0600;0.1600;0.93;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0900;0.1300;0.93;1" dur="10.0s" repeatCount="indefinite"/><text x="28" y="163" font-size="14" font-weight="700" fill="#f1f5f9">Desired Technology Services</text><text x="28" y="180" font-size="11.5" fill="#94a3b8">Content Writer · Jan 2022 – Mar 2023</text></g>
+<rect x="486.0" y="157" width="0" height="18" rx="9" fill="url(#g)"><animate attributeName="width" values="0;0;93.6;93.6;0" keyTimes="0;0.0900;0.1900;0.93;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1200;0.1600;0.93;1" dur="10.0s" repeatCount="indefinite"/><text x="28" y="207" font-size="14" font-weight="700" fill="#f1f5f9">AIRIDev</text><text x="28" y="224" font-size="11.5" fill="#94a3b8">SEO Specialist · Mar 2023 – Jun 2024</text></g>
+<rect x="579.6" y="201" width="0" height="18" rx="9" fill="url(#g)"><animate attributeName="width" values="0;0;97.5;97.5;0" keyTimes="0;0.1200;0.2200;0.93;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1500;0.1900;0.93;1" dur="10.0s" repeatCount="indefinite"/><text x="28" y="251" font-size="14" font-weight="700" fill="#f1f5f9">Wise Tech Innovates</text><text x="28" y="268" font-size="11.5" fill="#94a3b8">Content, SEO &amp; Instructor · Jun 2024 – Jul 2025</text></g>
+<rect x="677.1" y="245" width="0" height="18" rx="9" fill="url(#g)"><animate attributeName="width" values="0;0;85.8;85.8;0" keyTimes="0;0.1500;0.2500;0.93;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1800;0.2200;0.93;1" dur="10.0s" repeatCount="indefinite"/><text x="28" y="295" font-size="14" font-weight="700" fill="#f1f5f9">Deviora LLC</text><text x="28" y="312" font-size="11.5" fill="#94a3b8">Content Writer · Jul 2025 – Jun 2026</text></g>
+<rect x="762.9" y="289" width="0" height="18" rx="9" fill="url(#g)"><animate attributeName="width" values="0;0;70.2;70.2;0" keyTimes="0;0.1800;0.2800;0.93;1" dur="10.0s" repeatCount="indefinite"/></rect>
+</svg>

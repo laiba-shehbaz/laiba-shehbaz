@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="Section header: Let's Connect" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<title>Section header: Let's Connect</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#131a33"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect width="900" height="56" rx="14" fill="url(#bg)"/>
+<rect x="0.6" y="0.6" width="898.8" height="54.8" rx="13.4" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+<rect x="18" y="14" width="28" height="28" rx="8" fill="url(#g)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.4s" fill="freeze"/></rect>
+<text x="32" y="33" text-anchor="middle" font-size="12" font-weight="800" fill="#0b1224" opacity="0">08<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.4s" fill="freeze"/></text>
+<text x="60" y="35" font-size="22" font-weight="800" fill="#f1f5f9" opacity="0">Let's Connect<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.6s" fill="freeze"/></text>
+<rect x="60" y="43" width="0" height="2.5" rx="1.25" fill="url(#g)"><animate attributeName="width" from="0" to="120" begin="0.4s" dur="0.8s" fill="freeze"/></rect>
+<circle cx="868" cy="28" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
