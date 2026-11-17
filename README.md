@@ -11,10 +11,7 @@
 <a href="https://laibashehbazportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 
 <img src="assets/highlights.svg" alt="Highlights: 5+ years experience, 6 roles, 5 certifications, 4 SEO tools" width="100%">
-
 </div>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Preview-16a34a?style=for-the-badge&logo=githubpages&logoColor=white)](https://laiba-shehbaz.github.io/laiba-shehbaz/preview.html)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
